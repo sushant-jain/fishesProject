@@ -1,6 +1,7 @@
 # FISH_CLASSIFICATION
 
 A research based project for classifaction on underwater images of fishes into various different species
+https://www.researchgate.net/publication/324877523_Underwater_Fish_Species_Classification_using_Convolutional_Neural_Network_and_Deep_Learning
 
 Implemented a deep Learning Convolutional neural network with Tensorflow anf TFlearn for fish classification
 
